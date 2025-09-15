@@ -1,4 +1,4 @@
-How to view in Colabs 
+How to view in Colabs <br>
 Option 1 click here : 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/jspiegel3/MCON141_module3/blob/main/Fall_2024_MCON_141_HW_3.ipynb)
 
