@@ -1,7 +1,6 @@
 Go to the GitHub repository that has the .ipynb file.
 Click on the notebook file (e.g., class3.ipynb).
-Copy the URL from your browser’s address bar.\
-Example: https://github.com/username/repo/blob/main/class3.ipynb
+Copy the URL from your browser’s address bar [(https://github.com/jspiegel3/MCON141_module3/blob/main/Fall_2024_MCON_141_HW_3.ipynb)]
 
 Go to Google Colab
 Click File → Open Notebook.
